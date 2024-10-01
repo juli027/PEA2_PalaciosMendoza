@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "TUTORIA EN LINEA"
 date:   2024-09-30 20:51:32 -0500
 categories: jekyll update
 ---
