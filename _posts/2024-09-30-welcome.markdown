@@ -1,29 +1,35 @@
 ---
 layout: post
-title:  "TUTORIA EN LINEA"
-date:   2024-09-30 20:51:32 -0500
-categories: jekyll update
+title: "PEA2 DE PALACIOS MENDOZA"
+date: 2024-09-30 20:51:32 -0500
+categories: tutoría online
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+## Bienvenido a la Plataforma de Tutoría en Línea
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Esta plataforma está diseñada para ofrecerte una experiencia de aprendizaje personalizada y efectiva desde la comodidad de tu hogar. Aquí, los tutores pueden compartir lecciones, ejercicios y recursos, mientras los estudiantes pueden acceder a estos materiales, realizar preguntas y obtener feedback en tiempo real.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+### Funcionalidades Principales
 
-Jekyll also offers powerful support for code snippets:
+1. **Lecciones Personalizadas:** Los tutores pueden crear contenido adaptado a las necesidades específicas de cada estudiante.
+2. **Seguimiento del Progreso:** Tanto los estudiantes como los tutores pueden llevar un registro del progreso de aprendizaje, identificando áreas de mejora y éxitos alcanzados.
+3. **Sesiones en Vivo y Diferidas:** Accede a sesiones en vivo para interacción directa con el tutor o revisa lecciones grabadas cuando lo necesites.
+4. **Recursos Adicionales:** Documentos, videos, presentaciones y enlaces a materiales externos están disponibles para enriquecer la experiencia educativa.
+5. **Foros de Discusión:** Espacio para que los estudiantes planteen dudas y compartan ideas con otros compañeros.
+6. **Exámenes y Evaluaciones:** Los tutores pueden crear exámenes personalizados para evaluar el nivel de comprensión de los estudiantes y proporcionar retroalimentación detallada.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+### Estructura de la Plataforma
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+#### Lecciones
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Cada lección está organizada de manera clara y concisa para que los estudiantes puedan seguirla fácilmente. Los temas principales incluyen:
+
+- Introducción teórica
+- Ejemplos prácticos
+- Ejercicios para realizar en casa
+- Evaluación o cuestionario al final de la lección
+
+Cada lección sigue este formato:
+
+```bash
+2024-09-30-leccion1.md
