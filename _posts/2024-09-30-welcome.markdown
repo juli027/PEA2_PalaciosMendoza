@@ -29,7 +29,4 @@ Cada lección está organizada de manera clara y concisa para que los estudiante
 - Ejercicios para realizar en casa
 - Evaluación o cuestionario al final de la lección
 
-Cada lección sigue este formato:
 
-```bash
-2024-09-30-leccion1.md
